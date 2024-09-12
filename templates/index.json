@@ -1,0 +1,174 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Magnesium Glycinate Gummies",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Sugar-Free, 60 Day Supply",
+            "text_style": "subtitle"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SHOP NOW",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "learn more",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mask_group_2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-5",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "video_slider_iWGXGE": {
+      "type": "video-slider",
+      "blocks": {
+        "video_dKbUKN": {
+          "type": "Video",
+          "settings": {
+            "bg_video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/70188fb4acf041e990618a7e9c656e8a.mp4"
+          }
+        },
+        "video_GhmTnX": {
+          "type": "Video",
+          "settings": {
+            "bg_video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/70188fb4acf041e990618a7e9c656e8a.mp4"
+          }
+        },
+        "video_LeMPQn": {
+          "type": "Video",
+          "settings": {
+            "bg_video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/70188fb4acf041e990618a7e9c656e8a.mp4"
+          }
+        },
+        "video_9kXc4g": {
+          "type": "Video",
+          "settings": {
+            "bg_video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/70188fb4acf041e990618a7e9c656e8a.mp4"
+          }
+        },
+        "video_JX7NpT": {
+          "type": "Video",
+          "settings": {
+            "bg_video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/70188fb4acf041e990618a7e9c656e8a.mp4"
+          }
+        },
+        "video_4B7jPY": {
+          "type": "Video",
+          "settings": {
+            "bg_video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/70188fb4acf041e990618a7e9c656e8a.mp4"
+          }
+        }
+      },
+      "block_order": [
+        "video_dKbUKN",
+        "video_GhmTnX",
+        "video_LeMPQn",
+        "video_9kXc4g",
+        "video_JX7NpT",
+        "video_4B7jPY"
+      ],
+      "settings": {
+        "bg_color": "",
+        "background_gradient_color": "",
+        "the_heading": "",
+        "heading_color": "#000000",
+        "the_text": "",
+        "desc_color": "#000000",
+        "video_play_btn": "shopify:\/\/shop_images\/play-3-64.png",
+        "left_arrow": "shopify:\/\/shop_images\/arrow-118-32.png",
+        "right_arrow": "shopify:\/\/shop_images\/arrow-18-32.png"
+      }
+    },
+    "video_wkUca9": {
+      "type": "video",
+      "custom_css": [
+        "@media screen and (max-width: 1366px) {.video-section__media video {height: 300px; \/* Устанавливаем высоту 300px для ширины экрана больше 1366px *\/ }}"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=a9XiradYD2o",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_qhm8KL": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n* {\n  padding: 0;\n  margin: 0;\n}\n\n.containerCustom {\n  max-width: 1920px;\n  height: 911px;\n  margin: 0 auto;\n  display: flex;\n  align-items: center;\n  overflow: hidden;\n}\n.wrapperLetf2 {\n  width: 62%;\n  background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0780\/2001\/8360\/files\/girl.jpg?v=1726121217\");\n  height: 911px;\n  background-position: center center;\n  background-size: cover;\n}\n.first {\n  color: #fff;\n  text-align: center;\n  font-size: 20px;\n  font-style: normal;\n  font-weight: 600;\n  line-height: normal;\n}\n.second {\n  color: #fff;\n  text-align: center;\n  font-size: 30px;\n  font-style: normal;\n  font-weight: 700;\n  line-height: normal;\n  text-transform: uppercase;\n}\n.third {\n  color: #fff;\n  text-align: center;\n  font-size: 20px;\n  font-style: normal;\n  font-weight: 600;\n  line-height: normal;\n}\n.third span {\n  text-decoration: line-through;\n}\n.textDown {\n  display: flex;\n  justify-content: center;\n  flex-direction: column;\n  align-items: center;\n  gap: 30px;\n  color: #fff;\n  text-align: center;\n  font-size: 20px;\n  font-style: normal;\n  font-weight: 400;\n  padding: 30px;\n  line-height: 160%; \/* 32px *\/\n}\n.textDown a {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  border-radius: 32px;\n  background: #292229;\n  width: 250px;\n  height: 64px;\n  color: #fff;\n  font-size: 20px;\n  font-style: normal;\n  font-weight: 600;\n  line-height: normal;\n  text-decoration: none;\n}\n.wrapperRight22 {\n  width: 100%;\n  background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0780\/2001\/8360\/files\/bgg.jpg?v=1726121285\");\n  background-repeat: no-repeat;\n  background-size: cover;\n  background-position: center center;\n  display: flex;\n  height: 911px;\n  flex-direction: column;\n  justify-content: space-between;\n}\n.textUp {\n    padding-top: 30px;\n  }\n\n@media screen and (max-width: 1366px) {\n  .textUp {\n    padding-top: 30px;\n  }\n  .containerCustom {\n    height: 825px;\n  }\n  .wrapperRight22 {\n    height: 825px;\n  }\n  .wrapperLetf2 {\n    height: 825px;\n  }\n  .first {\n    font-size: 17px;\n    line-height: normal;\n  }\n  .second {\n    font-size: 24px;\n\n    line-height: normal;\n  }\n  .third {\n    font-size: 17px;\n    line-height: normal;\n  }\n  .textDown p {\n    font-size: 17px;\n    font-weight: 400;\n    line-height: 160%; \/* 27.2px *\/\n  }\n  .textDown a {\n    width: 208px;\n    height: 52px;\n    border-radius: 26px;\n    background: #292229;\n    font-size: 16px;\n    line-height: normal;\n  }\n}\n@media screen and (max-width: 1024px) {\n  .containerCustom {\n    height: 825px;\n  }\n  .wrapperRight22 {\n    height: 825px;\n  }\n  .wrapperLetf2 {\n    height: 825px;\n  }\n  .textDown p {\n    font-size: 15px;\n    font-weight: 400;\n    line-height: 160%; \/* 24px *\/\n  }\n  .textUp {\n    padding-top: 30px;\n  }\n}\n@media screen and (max-width: 768px) {\n  .containerCustom {\n    flex-direction: column; \/* Stack divs vertically *\/\n    flex-wrap: nowrap; \/* Ensure no wrapping *\/\n    justify-content: center;\n    align-items: stretch; \/* Make child divs stretch full width *\/\n    height: 1350px;\n  }\n  .wrapperLetf2 {\n    background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0780\/2001\/8360\/files\/girl768.jpg?v=1726125082\");\n    width: 100%; \/* Full width for stacking *\/\n    height: 525px; \/* Adjust height automatically *\/\n    background-repeat: no-repeat;\n    background-size: cover;\n    background-position: center center;\n  }\n  .wrapperRight22 {\n    width: 100%; \/* Full width for stacking *\/\n    height: 825px; \/* Adjust height automatically *\/\n  }\n  .textUp {\n    padding-top: 30px;\n  }\n  .textDown {\n    padding: 15px;\n    gap: 20px;\n  }\n}\n@media screen and (max-width: 426px) {\n  .containerCustom {\n    height: 870px;\n  }\n  .wrapperLetf2 {\n    height: 317px;\n  }\n  .wrapperRight22 {\n    height: 553px;\n  }\n  .first {\n    font-size: 13px;\n  }\n  .second {\n    font-size: 15px;\n\n    line-height: normal;\n  }\n  .third {\n    font-size: 14px;\n    line-height: normal;\n  }\n  .textDown {\n    padding: 10px;\n  }\n  .textUp {\n    display: flex;\n    flex-direction: column;\n    gap: 10px;\n  }\n  .textDown p {\n    font-size: 12px;\n    font-weight: 400;\n    line-height: 120%; \/* 27.2px *\/\n  }\n  .textDown a {\n    width: 134px;\n    height: 34px;\n    border-radius: 16.813px;\n    background: #292229;\n    font-size: 11px;\n    line-height: normal;\n  }\n}\n<\/style>\n<div class=\"containerCustom\">\n\t<div class=\"wrapperLetf2\">\n\t<\/div>\n\t<div class=\"wrapperRight22\">\n\t\t\t<div class=\"textUp\">\n\t\t\t\t<p class=\"first\">SUBSCRIBE & SAVE 25% - LIMITED TIME ONLY<\/p>\n\t\t\t\t<p class=\"second\">Magnesium Glycinate Gummies<\/p>\n\t\t\t\t<p class=\"third\">Starting at <span>$22.95<\/span> $17,21 when subscribed<\/p>\n\t\t\t<\/div>\n\t\t\t<div class=\"textDown\">\n\t\t\t\t<p class=\"\">Ready to relax and recharge? Whether you're managing a busy schedule, staying active, or simply unwinding at the end of the day, our Magnesium Glycinate Gummies are your go-to solution. Packed with highly bioavailable magnesium, these gummies support muscle function, reduce stress, and improve sleep quality. Enjoy the benefits of magnesium in a delicious and convenient form. Keep calm and carry on with confidence, no matter what your day holds.<\/p>\n\t\t\t\t\t\t\t<a href=\"\" class=\"\">Shop Now<\/a>\n\t\t\t<\/div>\n\t<\/div>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "custom_liquid_eCzhnm": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n.wrapper {\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n  max-width: 1420px;\n  margin: 0 auto;\n  padding: 20px;\n}\n.wrapper h2 {\n  margin: 0;\n  color: #292229;\n  font-size: 60px;\n  font-style: normal;\n  font-weight: 600;\n  text-align: center;\n  line-height: normal;\n  text-transform: uppercase;\n}\n.wrapperImg {\n  display: flex;\n}\n@media (max-width: 1366px) {\n  .wrapperImg img {\n    height: 173px;\n    width: 153px;\n  }\n  .wrapper h2 {\n    font-size: 50px;\n  }\n}\n@media (max-width: 1024px) {\n  .wrapperImg img {\n    height: 134px;\n    width: 120px;\n  }\n  .wrapper h2 {\n    font-size: 40px;\n  }\n  .wrapper {\n    padding: 12px;\n  }\n}\n@media (max-width: 768px) {\n  .wrapperImg img {\n    height: 114px;\n    width: 105px;\n  }\n  .wrapper h2 {\n    font-size: 25px;\nletter-spacing: 0px;\n  }\n  .wrapperImg {\n    flex-wrap: wrap;\n    justify-content: center;\n  }\n  .wrapper {\n    padding: 10px;\n     gap:20px;\n  }\n}\n\n@media (max-width: 375px) {\n  .wrapperImg img {\n    height: 100px;\n    width: 90px;\n  }\n  .wrapper h2 {\n    font-size: 20px;\n  }\n  .wrapperImg > div {\n    flex-wrap: wrap;\n    display: flex;\n    gap: 30px;\n  }\n}\n\n<\/style>\n<div class=\"wrapper\">\n\t<h2>Experience Pure Wellness with Purawex!<\/h2>\n\t<div class=\"wrapperImg\">\n\t\t<div>\n\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0780\/2001\/8360\/files\/Group_17_00fdab68-13be-49c5-bb4d-5257f1038170.svg?v=1725977183\" height=\"200px\" width=\"180px\" alt=\"\">\n\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0780\/2001\/8360\/files\/Group_18_664a7172-38bd-4c4e-a11f-bd789f867f54.svg?v=1725977184\" height=\"200px\" width=\"180px\" alt=\"\">\n\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0780\/2001\/8360\/files\/Group_20_eaf1ba58-fb02-46b5-bae9-cfd86af01fe9.svg?v=1725977183\" height=\"200px\" width=\"180px\" alt=\"\">\n\t\t<\/div>\n\t\t<div>\n\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0780\/2001\/8360\/files\/Group_21_23812fa4-2044-40a0-bdd7-04cc7cac29b9.svg?v=1725977184\" height=\"200px\" width=\"180px\" alt=\"\">\n\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0780\/2001\/8360\/files\/Group_22_55bde898-17f0-422c-ad68-89b67afc3e12.svg?v=1725977183\" height=\"200px\" width=\"180px\" alt=\"\">\n\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0780\/2001\/8360\/files\/Group_23_f9c114e6-ddef-4bd4-af3b-c0557a998150.svg?v=1725977183\" height=\"200px\" width=\"180px\" alt=\"\">\n\t\t<\/div>\n\t<\/div>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_CPWM6L": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>* {\n  padding: 0;\n  margin: 0;\n}\n.wrapperCustom1 {\n  display: flex;\n  margin: 0 auto;\n  flex-direction: column;\n  justify-content: center;\n  align-items: flex-start;\n  min-height: 500px;\n  max-width: 1600px;\n\n}\n.mainCustom1 {\n\tpadding: 40 40px 40 40px;\n  background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0780\/2001\/8360\/files\/3_1.png?v=1725450306\");\n  background-repeat: no-repeat;\n  background-size: 80;\n  background-position: center center;\n  width: 100%;\n}\n.textCustom1 {\n  display: flex;\n  flex-direction: column;\n  gap: 30px;\n  width: 667px;\n  padding-left: 40px;\n  padding-right: 40px;\n}\n\n.textCustom1 > h2 {\n  \n  font-weight: 700;\n  font-size: 50px;\n  line-height: 80px;\n}\n.textCustom1 > p {\n  font-weight: 400;\n  font-size: 20px;\n  line-height: 130%;\n}\n.imgClose{\n\tdisplay: none;\n\tbackground-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0780\/2001\/8360\/files\/closeImg.png?v=1725953570\");\n  background-repeat: no-repeat;\n  background-size: contain;\n  background-position: center center;\n  width: 100%;\n  min-height: 323px;\n}\n.aStyle1 {\n  color: white;\n  background-color: black;\n  border-radius: 32px;\n  width: 250px;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  text-decoration: none;\n  height: 64px;\n  font-weight: 600;\n  font-size: 20px;\n  line-height: 24px;\n}\n.aStyle1:hover{\ntransform: scale(1.1); \/* This increases the size by 10% *\/\n  transition: transform 0.3s ease-in-out;\n}\n\n\n\n@media (max-width: 1366px) {\n.textCustom1 {\n  gap: 20px;\n  width: 460px;\n}\n.textCustom1 {\n  padding-left: 40px;\n  padding-right: 40px;}\n.aStyle1 {\n\tfont-size: 14px;\n\tfont-weight: 600;\n\twidth: 160px;\n\theight: 48px;\n}\n.textCustom1 > h2 {\n\tfont-size: 40px;\n}\n.textCustom1 > p {\n\tfont-size: 17px;\n}\n}\n@media (max-width: 1024px) {\n.textCustom1 {\n  padding-left: 40px;\n  padding-right: 40px;\n\tgap: 15px;\n  font-size: 36px;\n  width: 460px;\n}\n.aStyle1 {\n\tfont-size: 12px;\n\tline-height: 12px;\n\tfont-weight: 600;\n\twidth: 140px;\n\theight: 38px;\n}\n.textCustom1 h2{\n  font-size: 30px;\n  line-height: 40px;\n}\n.mainCustom1 {\n  background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0780\/2001\/8360\/files\/bg1024.png?v=1726052356\");\n}\n.textCustom1 > p {\n\tfont-size: 15px;\n}\n}\n@media (max-width: 937px) {\n.textCustom1 {\n  gap: 30px;\n  width: 100%;\n  margin: 0 auto;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.wrapperCustom1{\n\tpadding: 40px 15px 40px 15px;\n\tgap: 40px;\n}\n.textCustom1 h2{\n  font-size: 36px;\n\n}\n.textCustom1 > p {\n\ttext-align: center;\n}\n.mainCustom1 {\n\tbackground-image: none;\n}\n.imgClose{\n\tdisplay: block;\n\tbackground-size: cover;\n}\n.mainCustom1 {\n\tpadding: 0;\n}\n}\n\n@media (max-width: 768px) {\n.imgClose{\n  min-height: 223px;\n}\n.textCustom1{\n\tpadding-left: 0px;\n\tpadding-right: 0px;\n}\n}\n@media (max-width: 360px) {\n.textCustom1 {\n  gap: 15px;\n  width: 296px;\n  \n}\n\n.mainCustom1 {\n\tbackground-image: none;\n}\n.imgClose{\n\theight: 183px;\n}\n}\n\n<\/style>\n<div class=\"mainCustom1\">\n\t<div class=\"wrapperCustom1\">\n\t\t<div class=\"textCustom1\">\n\t\t\t<h2>Our Story<\/h2>\n\t\t\t<p>What started as a quest for a natural and effective supplement quickly became a passion. We were tired of seeing products filled with unnecessary additives and low-quality ingredients. Our search for something better led us to create Purawex — a brand dedicated to purity, transparency, and wellness. Every product we offer is crafted with the highest quality ingredients, backed by science, and designed to seamlessly fit into your life. At Purawex, we believe that taking care of yourself should be simple, effective, and above all, natural.<\/p>\n\t\t\t<a href=\"\" class=\"aStyle1 \">LEARN MORE<\/a>\n\t\t<\/div>\n\t\t<div class=\"imgClose\">\n\t\t\t\n\t\t<\/div>\n  <\/div>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_FrRFkD": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n.wrapMain {\n  margin: 0 auto;\n    max-width: 1600px;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n  gap: 30px;\n  padding: 30px 60px 30px 60px;\n}\n.aStyle {\n  color: white;\n  background-color: black;\n  border-radius: 32px;\n  width: 250px;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  text-decoration: none;\n  height: 64px;\n\n  font-weight: 600;\n  font-size: 20px;\n  line-height: 24px;\n}\n.aStyle:hover {\n  transform: scale(1.1); \/* This increases the size by 10% *\/\n  transition: transform 0.3s ease;\n}\n.wrapIMG a:hover{\ntransform: scale(1.03); \/* This increases the size by 10% *\/\n  transition: transform 0.3s ease;\n}\n\n.wrapIMG {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  width: 100%;\n}\n.wrapMain h2 {\n\tmargin: 0;\n  color: #292229;\n  text-align: center;\n  font-size: 60px;\n  font-style: normal;\n  font-weight: 600;\n  line-height: normal;\n  text-transform: uppercase;\n}\n.wrapIMG a{\n\tmax-width: 385px;\n}\n.wrapMain p {\n  color: #292229;\n  text-align: center;\n  font-size: 30px;\n  font-style: normal;\n  font-weight: 400;\n  line-height: normal;\n  \tmargin: 0;\n}\n.wrapIMGLeft{\n\twidth: 100%;\n\tdisplay: flex;\n\tjustify-content: center;\n}\n.wrapIMGRight{\n\twidth: 100%;\n\tdisplay: flex;\n\tjustify-content: center;\n}\n\/* Media queries for h2 *\/\n@media (max-width: 1200px) {\n  .wrapIMG{\n    flex-wrap: wrap;\n\tgap: 30px;\n\t\n  }\n  .wrapIMGLeft{\n\tjustify-content: center;\n\tgap: 30px;\n\n  }\n  .wrapIMGRight{\n\tjustify-content: center;\n\tgap: 30px;\n\n}\n.wrapMain{\n\tpadding-left: 40px; padding-right: 40px;\n}\n}\n@media (max-width: 1366px) {\n\t.aStyle {font-size: 18px; width: 208px;   height: 52px;}\n\t.wrapMain h2 {\n\t\tcolor: #292229;\n\t\ttext-align: center;\n\t\tfont-size: 50px;\n\t\tfont-style: normal; \n\t\tfont-weight: 600;\n\t\tline-height: normal;\n\t\ttext-transform: uppercase;\n}\n\t\t.wrapMain{\n\t\t\tgap: 24px;\n\t\t\t\t padding: 20px 20px 20px 20px;\n\t\t}\n\t.wrapMain p {\n\t\tcolor: #292229;\n\ttext-align: center;\t\n\tfont-size: 30px;\n\tfont-style: normal;\n\tfont-weight: 400;\n\tline-height: normal;\n\t}\n}\n@media (max-width: 1024px) {\n\t.aStyle {font-size: 16px; width: 200px;}\n\t.wrapMain h2 {\n\t\tfont-size: 40px;\n\t}\n\t.wrapMain{\n\t\t\tgap: 18px;\n\t\t}\n\t.wrapMain p {font-size: 30px;}\n}\n@media (max-width: 768px) {\n\t\t.aStyle {font-size: 16px; width: 207px;}\n\t.wrapMain h2 {}\n\t.wrapMain p {}\n\t.wrapMain{\n\t\t\tgap: 16px;\n\t\t}\n}\n@media (max-width: 375px) {\n\t.aStyle {font-size: 10px; width: 140px; height: 30px;}\n\t.wrapMain h2 {font-size: 27px;}\n\t.wrapMain p {font-size: 20px;}\n\t.wrapMain{\n\t\t\tgap: 10px;\n\t\t}\n\t\t  .wrapIMGLeft{\n\n\tgap: 15px;\n\n  }\n  .wrapIMGRight{\n\tgap: 15px;\n\n}\n.wrapIMG{\n\tgap: 15px;\n}\n}\n\n<\/style>\n<div>\n\t<div class=\"wrapMain\">\n\t\t<h2>FIND US ON INSTAGRAM!<\/h2>\n\t\t<p>@truepurawex<\/p>\n\t\t<div class=\"wrapIMG\">\n\t\t\t<div class=\"wrapIMGLeft\">\n\t\t\t<a href=\"https:\/\/www.instagram.com\/charliebuddyshop?igsh=ODJsYjVrNjNrNzFp\">\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0780\/2001\/8360\/files\/1-1_1.png?v=1725489172\" alt=\"\" height=\"100%\" width=\"100%\">\n\t\t\t<\/a>\n\t\t\t<a href=\"https:\/\/www.instagram.com\/charliebuddyshop?igsh=ODJsYjVrNjNrNzFp\">\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0780\/2001\/8360\/files\/3_3.png?v=1725489177\" alt=\"\" height=\"100%\" width=\"100%\">\n\t\t\t<\/a>\n\t\t\t<\/div>\n\t\t\t<div class=\"wrapIMGRight\">\n\t\t\t<a href=\"https:\/\/www.instagram.com\/charliebuddyshop?igsh=ODJsYjVrNjNrNzFp\">\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0780\/2001\/8360\/files\/6_1.png?v=1725489177\" alt=\"\" height=\"100%\" width=\"100%\">\n\t\t\t<\/a>\n\t\t\t<a href=\"https:\/\/www.instagram.com\/charliebuddyshop?igsh=ODJsYjVrNjNrNzFp\">\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0780\/2001\/8360\/files\/9-1_1.png?v=1725489175\" alt=\"\" height=\"100%\" width=\"100%\">\n\t\t\t<\/a>\n\t\t\t<\/div>\n\t<\/div>\n<a class=\"aStyle\" href=\"\">LEARN MORE<\/a>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "video_slider_iWGXGE",
+    "video_wkUca9",
+    "custom_liquid_qhm8KL",
+    "custom_liquid_eCzhnm",
+    "custom_liquid_CPWM6L",
+    "custom_liquid_FrRFkD"
+  ]
+}
